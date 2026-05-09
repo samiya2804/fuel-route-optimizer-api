@@ -60,5 +60,4 @@ fuel_optimizer/
 └── README.md
 
 
-# loom video
-https://www.loom.com/share/781909a5315644e3abfb517652c2523f
+[loom video](https://www.loom.com/share/781909a5315644e3abfb517652c2523f)
